@@ -1,2 +1,2 @@
 # crotation
-My attempt at the Zeon Systems technical internship take-home assignment.
+My attempt at the Zeon Systems technical internship take-home assignment's first problem.
