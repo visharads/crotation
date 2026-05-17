@@ -1,0 +1,11 @@
+# environment
+.venv/
+
+# ultralytics
+data.yaml
+*.cache
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
